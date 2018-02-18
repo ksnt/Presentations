@@ -14,4 +14,4 @@ author:ksnt
 
 ---
 
-![Gitpitch Picture]()
+![Gitpitch Picture](https://github.com/ksnt/Presentations/blob/master/gitpitch.png)
